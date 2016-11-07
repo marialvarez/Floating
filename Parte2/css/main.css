@@ -1,0 +1,23 @@
+.caja {
+	width: 600px;
+	border: 1px solid #CCC;
+}
+
+.box {
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+
+.amarillo {
+	background-color: #FFFF00;
+}
+
+.azul {
+	background-color: #3A81BA;
+}
+
+.rojo {
+	background-color: #ED2251;
+}left;
+}
