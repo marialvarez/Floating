@@ -19,5 +19,16 @@
 
 .rojo {
 	background-color: #ED2251;
-}left;
+}
+.dis {
+    border-spacing:5px;
+    border-style: inset;
+    border-radius: 150%;
+    background-color: #00FFFF;
+    text-align:center;
+    display:inline;
+    padding:20px;
+    color:black;
+    position:absolute;
+    margin:150px 0px;
 }
